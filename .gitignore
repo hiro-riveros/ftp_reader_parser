@@ -1,0 +1,16 @@
+
+# Created by https://www.gitignore.io/api/ruby
+
+### Ruby ###
+
+## Environment normalization:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+.rvmrc
+.rbenv-vars
+*/.DS_Store
+.DS_Store
+.vscode
+.jslintrc
